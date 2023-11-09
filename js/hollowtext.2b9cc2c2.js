@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["hollowtext"],{"82b5":function(t,n,s){"use strict";s("c0fa")},b081:function(t,n,s){"use strict";s.r(n);var c=function(){var t=this;t._self._c;return t._m(0)},e=[function(){var t=this,n=t._self._c;return n("div",{staticClass:"bg"},[n("div",{staticClass:"modal"},[n("h1",[t._v("镂空文字Hollow Text")])])])}],i={},o=i,a=(s("82b5"),s("2be6")),l=Object(a["a"])(o,c,e,!1,null,"b868e10c",null);n["default"]=l.exports},c0fa:function(t,n,s){}}]);
+//# sourceMappingURL=hollowtext.2b9cc2c2.js.map
