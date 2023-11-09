@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["textshadow"],{"86a5":function(t,n,e){"use strict";e("abc6")},abc6:function(t,n,e){},f66e:function(t,n,e){"use strict";e.r(n);var c=function(){var t=this;t._self._c;return t._m(0)},a=[function(){var t=this,n=t._self._c;return n("div",{staticClass:"d-flex align-center justify-center",staticStyle:{height:"100%",background:"#ddd"}},[n("h1",[t._v("Shadow")])])}],s={},i=s,u=(e("86a5"),e("2be6")),r=Object(u["a"])(i,c,a,!1,null,null,null);n["default"]=r.exports}}]);
+//# sourceMappingURL=textshadow.2d9dee06.js.map
