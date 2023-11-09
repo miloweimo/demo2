@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["texthollow"],{ba6b:function(t,c,n){},c49d:function(t,c,n){"use strict";n.r(c);var s=function(){var t=this;t._self._c;return t._m(0)},i=[function(){var t=this,c=t._self._c;return c("div",{staticClass:"bg"},[c("div",{staticClass:"modal"},[c("h1",[t._v("镂空文字Hollow Text")])])])}],o={},a=o,e=(n("c698"),n("2be6")),l=Object(e["a"])(a,s,i,!1,null,"9cf3048c",null);c["default"]=l.exports},c698:function(t,c,n){"use strict";n("ba6b")}}]);
+//# sourceMappingURL=texthollow.033033eb.js.map
