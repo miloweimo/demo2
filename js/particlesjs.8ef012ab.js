@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["particlesjs"],{"083a":function(t,r,s){"use strict";s.r(r);var e=function(){var t=this,r=t._self._c;return r("div",[r("portal",{attrs:{to:"app-header"}},[r("router-link",{staticClass:"mr-2",attrs:{to:"/particlesjs/demo1"}},[t._v(" go demo1 ")]),r("router-link",{staticClass:"mr-2",attrs:{to:"/particlesjs/demo2"}},[t._v(" go demo2 ")])],1),r("router-view")],1)},a=[],o={},l=o,i=s("2be6"),n=Object(i["a"])(l,e,a,!1,null,null,null);r["default"]=n.exports}}]);
+//# sourceMappingURL=particlesjs.8ef012ab.js.map
