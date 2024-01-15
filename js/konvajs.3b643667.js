@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["konvajs"],{"5be6":function(t,o,e){"use strict";e.r(o);var r=function(){var t=this,o=t._self._c;return o("div",[o("portal",{attrs:{to:"app-header"}},[o("router-link",{staticClass:"mr-2",attrs:{to:"/konvajs/demo1"}},[t._v(" go demo1 ")]),o("router-link",{staticClass:"mr-2",attrs:{to:"/konvajs/demo2"}},[t._v(" go demo2 ")])],1),o("router-view")],1)},s=[],a={},n=a,l=e("2be6"),i=Object(l["a"])(n,r,s,!1,null,null,null);o["default"]=i.exports}}]);
+//# sourceMappingURL=konvajs.3b643667.js.map
