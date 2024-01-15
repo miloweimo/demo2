@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["dialog"],{e744:function(o,e,i){"use strict";i.r(e);var n=i("7265"),t=function(){var o=this,e=o._self._c;return e("div",[e("h1",[o._v("封装弹窗")]),e("div",[e(n["a"],{on:{click:o.showDialog}},[o._v(" 显示 ")])],1)])},a=[],c={computed:{},created(){},methods:{async showDialog(){await this.$root.$confirm.open("说明","啊吧吧吧吧吧啊啊吧吧吧")}}},s=c,l=i("2be6"),r=Object(l["a"])(s,t,a,!1,null,"0590e6f5",null);e["default"]=r.exports}}]);
+//# sourceMappingURL=dialog.a28ae6f6.js.map
