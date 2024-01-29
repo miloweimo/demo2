@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["text3D"],{"0418":function(t,e,n){"use strict";n("34fa")},"144d":function(t,e,n){"use strict";n.r(e);var i=function(){var t=this;t._self._c;return t._m(0)},c=[function(){var t=this,e=t._self._c;return e("div",{staticClass:"d-flex align-center justify-center",staticStyle:{height:"100%"}},[e("div",[e("h1",[t._v("text3D")])])])}],s={},u=s,a=(n("0418"),n("2be6")),f=Object(a["a"])(u,i,c,!1,null,"2959fb7c",null);e["default"]=f.exports},"34fa":function(t,e,n){}}]);
+//# sourceMappingURL=text3D.b3d3edb5.js.map
