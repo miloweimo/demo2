@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["cssmix"],{a729:function(e,t,s){"use strict";s.r(t);var a=function(){var e=this,t=e._self._c;return t("div",{staticStyle:{height:"100%"}},[t("portal",{attrs:{to:"app-header"}},[t("a",{staticClass:"mr-2",attrs:{href:"https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode"}},[e._v(" mix-blend-mode MDN ")])]),t("router-view")],1)},r=[],l={},o=l,i=s("2be6"),n=Object(i["a"])(o,a,r,!1,null,null,null);t["default"]=n.exports}}]);
+//# sourceMappingURL=cssmix.b6fc2687.js.map
