@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["waterprogress"],{f89a:function(t,e,s){"use strict";s.r(e);var a=function(){var t=this,e=t._self._c;return e("div",{staticClass:"pa-4",staticStyle:{height:"100%"}},[e("router-view")],1)},n=[],r={},i=r,l=s("2be6"),u=Object(l["a"])(i,a,n,!1,null,null,null);e["default"]=u.exports}}]);
+//# sourceMappingURL=waterprogress.46b8aeed.js.map
