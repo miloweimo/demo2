@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["cssmix"],{a729:function(t,e,n){"use strict";n.r(e);var i=function(){var t=this,e=t._self._c;return e("div",{staticStyle:{height:"100%"}},[e("router-view")],1)},s=[],u={},c=u,l=n("2be6"),r=Object(l["a"])(c,i,s,!1,null,null,null);e["default"]=r.exports}}]);
+//# sourceMappingURL=cssmix.474adee8.js.map
