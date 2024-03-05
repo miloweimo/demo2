@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["deepclone"],{2739:function(e,t,n){"use strict";n.r(t);var o=function(){var e=this,t=e._self._c;return t("div",{staticClass:"pa-4"},[t("h1",[e._v("Deep Cloning Object in JavaScript")]),t("CodeHighlight",{attrs:{code:e.code}})],1)},c=[],a=n("bc12"),i={components:{CodeHighlight:a["a"]},data(){return{code:"_.cloneDeep(obj)\nstructuredClone(obj)"}},methods:{}},s=i,d=n("2be6"),l=Object(d["a"])(s,o,c,!1,null,"50942ad6",null);t["default"]=l.exports}}]);
+//# sourceMappingURL=deepclone.49cc2581.js.map
